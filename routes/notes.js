@@ -45,12 +45,12 @@ notes.delete('/:note_id', (req, res) => {
 notes.post('/', (req, res) => {
   console.log(req.body);
 
-  const { note , note_text } = req.body;
+  const { title , text } = req.body;
 
   if (req.body) {
     const newnote = {
-      note,
-      note_text,
+      title,
+      text,
       note_id: uuidv4(),
     };
 
