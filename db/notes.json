@@ -1,7 +1,22 @@
 [
     {
         "title": "Meeting",
-        "text": "at 10am with the manager.",
-        "note_id": "84af28d7-0b9c-4634-9ac7-09a5dd709d8c"
+        "text": "on Monday with the manager at 10am",
+        "note_id": "77d5e9b7-7d04-4342-af7c-d91aa96a92e6"
+    },
+    {
+        "title": "Call Bank",
+        "text": "call bank for bank statement on Wednesday.",
+        "note_id": "79621b78-34ee-46eb-9c01-399c102e54b5"
+    },
+    {
+        "title": "Appointment on Tuesday",
+        "text": "Doctor appointment at 12pm",
+        "note_id": "6ca59e27-357f-4685-af70-3f41690cedf6"
+    },
+    {
+        "title": "Client lunch on Thursday",
+        "text": "at 1pm lunch with my client.",
+        "note_id": "bd653630-3fae-4c6e-992e-98600c565d8e"
     }
 ]
